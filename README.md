@@ -6,3 +6,4 @@ Užduoties formuluotė:
     refleksyvumą, pilnumą ir tranzityvumą.
     Kaip pavyzdinį sąryšį panaudokite savo užduotį.
     
+Programos veikimas aprašytas instrukcija.pdf faile.
